@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-application",
+  "version": "1.0.0",
+  "description": "API for a ecommerce platform ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratik Ghosh",
+  "license": "MIT",
+  "dependencies": {
+    "apidoc": "^0.17.6",
+    "body-parser": "1.18.3",
+    "cookie-parser": "1.4.3",
+    "express": "4.16.2",
+    "helmet": "3.12.0",
+    "moment": "2.21.0",
+    "moment-timezone": "0.5.14",
+    "mongoose": "4.13.5",
+    "pino": "4.15.0",
+    "shortid": "^2.2.8"
+  }
+}
